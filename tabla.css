@@ -1,0 +1,28 @@
+.cuadro {
+	background-image: url(images/bg.jpg);
+	color: white;
+	text-align: center;
+}
+.img {
+	height: 30px;
+	width: 160px;
+	float: left;
+}
+.container {
+	text-align: center;
+}
+.entre{
+	text-align: center;
+} 
+.boton{
+	margin: 20px;
+}
+.mail {
+	color:	#0057e7;
+}
+.pie {
+	color: white;
+	background-color: #000000 !important;
+	text-align: center;
+	height:2px;
+}
